@@ -1,0 +1,12 @@
+# OS
+.DS_Store
+
+# lang
+node_modules
+
+# project
+dist
+dist-ssr
+
+# misc
+*.local
